@@ -12,4 +12,4 @@ Add your hash entries into the CSV file with a comma delimitter and no text qual
   
 Run the CreateUpdateDB.py script in order to create your DB if it doesn't exist, or updated with new entries in your hashes.csv  
   
-Run the MalBinHashChecker.py in order to query the Nexthink database (authentication isn't implemented yet) and check if there are any malicious binaries in your environment.
+Run the CheckMaliciousBins.py in order to query the Nexthink database (authentication isn't implemented yet) and check if there are any malicious binaries in your environment.
